@@ -31,6 +31,14 @@ body {
 }
 
 .landkarte{
+ width: 100vw;
+ position: relative;
+ margin-left: -50vw;
+ height: 100px;
+ left: 50%;
+}
+
+.landkartev3{
   margin: 0 auto;
   max-width: 2000px;
   padding: 0 10px;
