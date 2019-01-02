@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Some information about you!
+![Kapitel 1 Bild](/images/FrauLilienstein.jpg)
 
 ### More Information
 
