@@ -4,7 +4,7 @@ title: Kapitel
 permalink: /kapitel/
 ---
 
-loop mit alle kapiteln
+Die Kapitel werden nacheinander freigeschaltet.
 
 <div class="posts">
   
