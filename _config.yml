@@ -8,7 +8,7 @@ name: Wunder
 # Short bio or description (displayed in the header)
 description: Mein Buch
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/Kaleidoskop.jpg
+avatar: /images/Kaleidoskop.jpg
 
 #
 # Flags below are optional
