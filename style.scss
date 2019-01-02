@@ -29,7 +29,15 @@ body {
   padding: 0 10px;
   width: 100%;
 }
- .landkarte{
+
+.landkarte{
+  margin: 0 auto;
+  max-width: 100vw;
+  padding: 0 10px;
+  width: 100%;
+}
+
+ .landkartefunktioniertNicht{
  width: 100vw;
  position: relative;
  margin-left: -50vw;
